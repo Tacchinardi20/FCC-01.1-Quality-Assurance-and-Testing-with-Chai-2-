@@ -1,2 +1,3 @@
-# FCC-01.1-Quality-Assurance-and-Testing-with-Chai-2-
-freeCodeCamp-Quality-Assurance-Courses-01.1-Quality-Assurance-and-Testing-with-Chai-2-
+# Quality Assurance with Chai
+
+This is the boilerplate for the Quality Assurance with Chai lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
